@@ -1,5 +1,5 @@
 
-<h1 align="center">#Hi there👋 I'm Indranuj Dev</h1>
+<h1 align="center">#Hi there👋 I'm Indranuj</h1>
 <p align="center">
   🎓 Electronics and Communication Engineering @ NIT Silchar | 💻 C++ • MERN Stack • CP| Designer
 </p>
