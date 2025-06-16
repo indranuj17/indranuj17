@@ -1,5 +1,5 @@
 
-<h1 align="center">## Hi there 👋 I'm Indranuj Dev</h1>
+<h1 align="center">#Hi there👋 I'm Indranuj Dev</h1>
 <p align="center">
   🎓 Electronics and Communication Engineering @ NIT Silchar | 💻 C++ • MERN Stack • CP| Designer
 </p>
@@ -8,10 +8,11 @@
 
 ## 🔧 What I Do
 
-<h5>- 🔭 I’m currently building full-stack web apps using **MERN Stack**<h5/>
-<h5>- 🤖 Exploring **AI/ML** integration into real-world apps*<h5/>
-<h5>- 🧠 Love problem solving in **C++**, **DSA**, and **Leetcode**<h5/>
-<h5>- 💡 Passionate about building impactful and user-friendly software <h5/>
+- 🔭 I’m currently building full-stack web apps using **MERN Stack**
+- 🤖 Exploring **AI/ML** integration into real-world apps*
+- 🧠 Love problem solving in **C++**, **DSA**, and **Leetcode**
+- 💡 Passionate about building impactful and user-friendly software 
+
 
 ---
 
@@ -65,12 +66,15 @@
 
 ---
 
-## 🏆 DSA & CP
-- Solved 500+ problems on:
-  - 💻 [Leetcode](https://leetcode.com/)  
-  - 📊 [Codeforces](https://codeforces.com/)
-  - 🧠 [Codechef](https://www.codechef.com/users/indranuj17) 2**
-  - 📘 [GFG](https://www.geeksforgeeks.org/)
+## 🧠DSA and CP
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/indranuj17)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/indranuj17)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/indranuj17)
+
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/indranuj17/practice/)
 
 ---
 
