@@ -1,7 +1,7 @@
 
 <h1 align="center">#Hi there👋 I'm Indranuj</h1>
 <p align="center">
-  🎓 Electronics and Communication Engineering @ NIT Silchar | 💻 C++ • MERN Stack • CP| Designer
+  🎓 Electronics and Communication Engineering @ NIT Silchar'27 | 💻 C++ • MERN Stack • CP| Designer
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ## 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/indranuj-dev-b45366202)  
-- 📧 indranujdev015@gmail.com  
+- 📧 [Email](indranujdev015@gmail.com)  
 - 🧑‍💻 [GitHub](https://github.com/indranuj17)
   
 ---
