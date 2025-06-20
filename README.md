@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 What I Do
+## 🔧 What I Do?
 
 - 🔭 I’m currently building full-stack web apps using **MERN Stack**
 - 🤖 Exploring **AI/ML** integration into real-world apps*
@@ -48,6 +48,16 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) for API testing
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) for version control
+
+---
+
+
+## 🚀Currently Learning
+
+- Full Stack Web Development
+- Machine Learning
+- Deep Learning
+- Implementation of AI tools
 
 ---
 
