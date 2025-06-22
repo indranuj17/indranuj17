@@ -78,22 +78,74 @@
 
 ## 🧠DSA and CP
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/indranuj17)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/indranuj17)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/indranuj17)
-
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/indranuj17/practice/)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://leetcode.com/indranuj17" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="28" height="28" alt="LeetCode" />
+      </a>
+      <br>LeetCode
+    </td>
+    <td align="center" width="96">
+      <a href="https://auth.geeksforgeeks.org/user/indranuj17/practice/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="28" height="28" alt="GeeksforGeeks" />
+      </a>
+      <br>GFG
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.codechef.com/users/indranuj17" target="_blank" rel="noreferrer">
+        <img src="https://cdn.codechef.com/images/cc-logo.svg" width="28" height="28" alt="CodeChef" />
+      </a>
+      <br>CodeChef
+    </td>
+    <td align="center" width="96">
+      <a href="https://codeforces.com/profile/indranuj17" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="28" height="28" alt="Codeforces" />
+      </a>
+      <br>Codeforces
+    </td>
+    <td align="center" width="96">
+      <a href="" target="_blank" rel="noreferrer">
+       <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" width="28" height="28" alt="CodeStudio" />
+      </a>
+      <br>CodeStudio
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/indranuj-dev-b45366202)  
-- 📧 [Email](indranujdev015@gmail.com)  
-- 🧑‍💻 [GitHub](https://github.com/indranuj17)
-  
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/indranuj17" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="28" height="28" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="[https://www.linkedin.com/in/indranuj-dev-b45366202" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28" height="28" alt="LinkedIn" />
+      </a>
+      <br>LinkedIn
+    </td>
+    <td align="center" width="96">
+      <a href="" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="28" height="28" alt="Instagram" />
+      </a>
+      <br>Instagram
+    </td>
+    <td align="center" width="96">
+      <a href="mailto:indranujdev015@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="28" height="28" alt="Email" />
+      </a>
+      <br>Email
+    </td>
+  </tr>
+</table>
+
 ---
 
-I'm always eager to work on innovative projects and open to internships and SDE roles in web development, system design, or real-time applications.
+<h3>I'm always eager to work on innovative projects and open to internships and SDE roles in web development, system design, or real-time applications.</h3>
