@@ -1,7 +1,7 @@
 
 <h1 align="center">#Hi there👋 I'm Indranuj</h1>
 <p align="center">
-  🎓 Electronics and Communication Engineering @ NIT Silchar'27 | 💻 C++ • MERN Stack • CP| Designer
+  <h3>🎓 Electronics and Communication Engineering @ NIT Silchar'27 | 💻 C++ • MERN Stack • CP| Designer</h3>
 </p>
 
 ---
