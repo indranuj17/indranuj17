@@ -151,4 +151,4 @@
 
 ---
 
-<h3>I'm always eager to work on innovative projects and open to internships and SDE roles in web development, system design, or real-time applications.</h3>
+<h3>I'm always eager to work on innovative projects and open to internships and SDE roles in web development, or real-time applications.</h3>
