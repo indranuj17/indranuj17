@@ -133,7 +133,7 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <a href="[https://www.linkedin.com/in/indranuj-dev-b45366202" target="_blank" rel="noreferrer">
+      <a href="https://www.linkedin.com/in/indranuj-dev-b45366202" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28" height="28" alt="LinkedIn" />
       </a>
       <br>LinkedIn
